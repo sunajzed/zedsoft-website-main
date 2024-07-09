@@ -37,23 +37,23 @@ const Header = () => {
       <div className="relative mx-auto max-w-c-1390 items-center justify-between px-4 md:px-8 xl:flex 2xl:px-0">
         <div className="flex w-full items-center justify-between xl:w-1/4">
           <a href="/">
-            {/* Adjusted logo size for more compact header */}
+       
             <Image
-              src="/images/logo/noBg.png"
+              src="/images/logo/logowhite1.png"
               alt="Company logo"
-              width={180} // Reduced width
-              height={45} // Reduced height
-              quality={100} // High quality
-              priority // Quick loading
+              width={180} 
+              height={45} 
+              quality={100} 
+              priority 
               className="hidden dark:block"
             />
             <Image
               src="/images/logo/noBgB.png"
               alt="Company logo"
-              width={180} // Reduced width
-              height={45} // Reduced height
-              quality={100} // High quality
-              priority // Quick loading
+              width={180} 
+              height={45} 
+              quality={100} 
+              priority 
               className="dark:hidden filter"
             />
           </a>
