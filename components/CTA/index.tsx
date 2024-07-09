@@ -50,40 +50,40 @@ const CTA = () => {
               viewport={{ once: true }}
               className="animate_right lg:w-[45%]"
             >
-            <div className="flex items-center justify-end xl:justify-between">
-  <Image
-    width={299}
-    height={299}
-    src="/images/shape/shape-06.png"
-    alt="Saly"
-    className="hidden xl:block"
-  />
-  <a
-    href="https://wa.me/+917909179006"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="flex items-center gap-3 bg-gradient-to-r from-[#4AC959] to-[#16CDD5] px-4 py-2 rounded-lg shadow-md hover:opacity-90 text-white dark:bg-gradient-to-r dark:from-[#1F2937] dark:to-[#374151]"
-    style={{ maxWidth: "fit-content" }}
-  >
-    <Image
-      width={32}
-      height={32}
-      src="/images/icon/social.png"
-      alt="WhatsApp"
-      className="dark:hidden"
-    />
-    <Image
-      width={32}
-      height={32}
-      src="/images/icon/whatsapp.png"
-      alt="WhatsApp"
-      className="hidden dark:block"
-    />
-    <span className="text-lg font-semibold">
-       WhatsApp us
-    </span>
-  </a>
-</div>
+              <div className="flex items-center justify-end xl:justify-between">
+                <Image
+                  width={299}
+                  height={299}
+                  src="/images/shape/shape-06.png"
+                  alt="Saly"
+                  className="hidden xl:block"
+                />
+                <a
+                  href="https://wa.me/+917909179006"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3 bg-gradient-to-r from-[#4AC959] to-[#16CDD5] px-4 py-2 rounded-lg shadow-md hover:opacity-90 text-white dark:bg-gradient-to-r dark:from-[#1F2937] dark:to-[#374151]"
+                  style={{ maxWidth: "fit-content" }}
+                >
+                  <Image
+                    width={32}
+                    height={32}
+                    src="/images/icon/social.png"
+                    alt="WhatsApp"
+                    className="dark:hidden"
+                  />
+                  <Image
+                    width={32}
+                    height={32}
+                    src="/images/icon/whatsapp.png"
+                    alt="WhatsApp"
+                    className="hidden dark:block"
+                  />
+                  <span className="text-lg font-semibold">
+                    WhatsApp us
+                  </span>
+                </a>
+              </div>
 
             </motion.div>
           </div>

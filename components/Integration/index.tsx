@@ -231,7 +231,7 @@ const Integration = () => {
                 <Image
                   width={50}
                   height={50}
-                  src="/images/brand/nextjs-48.png"
+                  src="/images/brand/next-js.svg"
                   alt="Brand"
                 />
               </div>

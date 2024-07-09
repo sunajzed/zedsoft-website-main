@@ -48,7 +48,7 @@ const Header = () => {
               className="hidden dark:block"
             />
             <Image
-              src="/images/logo/noBgB.png"
+              src="/images/logo/logoDark.png"
               alt="Company logo"
               width={180} 
               height={45} 

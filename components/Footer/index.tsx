@@ -56,13 +56,14 @@ const Footer = () => {
                 <a href="#" aria-label="Facebook" className="hover:opacity-70">
                   <Image src="/images/icon/facebook.png" alt="Facebook" width={24} height={24} />
                 </a>
-                <a href="#" aria-label="Twitter" className="hover:opacity-70">
+                <a href="https://www.instagram.com/zedsoft_tech?igsh=N3F6ZWN3NHF6cHJ6" aria-label="Instagram" className="hover:opacity-70">
                   <Image src="/images/icon/instagram.png" alt="Instagram" width={24} height={24} />
                 </a>
-                <a href="#" aria-label="Instagram" className="hover:opacity-70">
+                <a href="https://wa.me/917909179006" aria-label="Whatsapp" className="hover:opacity-70">
                   <Image src="/images/icon/whatsapp333.png" alt="whatsapp" width={24} height={24} />
                 </a>
-                <a href="#" aria-label="LinkedIn" className="hover:opacity-70">
+
+                <a href="https://linkedin.com/in/zedsofttech-software-solution-9aa551318/" aria-label="LinkedIn" className="hover:opacity-70">
                   <Image src="/images/icon/linkedin.png" alt="LinkedIn" width={24} height={24} />
                 </a>
               </div>
