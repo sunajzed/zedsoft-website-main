@@ -29,13 +29,13 @@ const About = () => {
               className="animate_left relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/about/Dm.jpg"
+                src="/images/about/marketing.png"
                 alt="About"
                 className="dark:hidden"
                 fill
               />
               <Image
-                src="/images/about/Dm.jpg"
+            src="/images/about/marketing.png"
                 alt="About"
                 className="hidden dark:block"
                 fill
@@ -169,13 +169,13 @@ const About = () => {
               className="animate_right relative mx-auto hidden aspect-[588/526.5] md:block md:w-1/2"
             >
               <Image
-                src="/images/about/5287968.jpg"
+              src="/images/about/SEOIMG.png"
                 alt="About"
                 className="dark:hidden"
                 fill
               />
               <Image
-                src="/images/about/5287968.jpg"
+                src="/images/about/SEOIMG.png"
                 alt="About"
                 className="hidden dark:block"
                 fill
