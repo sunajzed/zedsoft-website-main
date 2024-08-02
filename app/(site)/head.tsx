@@ -1,10 +1,11 @@
+
 export default function Head() {
   return (
     <>
       <title> ZedsoftTech | Information Technology </title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="Built with Next.js and TypeScript" />
-      {/* <link rel="icon" href="/images/favicon.ico" /> */}
+      <link rel="icon" href="../../public/images/logo/logowhite1.png" />
     </>
   );
 }
