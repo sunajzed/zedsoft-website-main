@@ -125,3 +125,8 @@ pre {
 .active-tab {
   @apply bg-stroke text-black dark:bg-blackho dark:text-white;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+

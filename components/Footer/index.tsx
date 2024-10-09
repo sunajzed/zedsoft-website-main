@@ -53,10 +53,10 @@ const Footer = () => {
                 Follow us on social media to stay updated with the latest trends and updates.
               </p>
               <div className="flex items-center space-x-4">
-                <a href="#" aria-label="Facebook" className="hover:opacity-70">
+                <a href="https://www.facebook.com/profile.php?id=61565604202211" target="blank" aria-label="Facebook" className="hover:opacity-70">
                   <Image src="/images/icon/facebook.png" alt="Facebook" width={24} height={24} />
                 </a>
-                <a href="https://www.instagram.com/zedsoft_tech?igsh=N3F6ZWN3NHF6cHJ6" aria-label="Instagram" className="hover:opacity-70">
+                <a href="https://www.instagram.com/zedsofttech/?__pwa=1" target="blank" aria-label="Instagram" className="hover:opacity-70">
                   <Image src="/images/icon/instagram.png" alt="Instagram" width={24} height={24} />
                 </a>
                 <a href="https://wa.me/917909179006" aria-label="Whatsapp" className="hover:opacity-70">

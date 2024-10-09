@@ -5,25 +5,26 @@ const menuData: Menu[] = [
     id: 1,
     title: "Home",
     newTab: false,
-    path: "/",
+    path: "#hero", // link to Hero section
   },
   {
     id: 2,
     title: "Features",
     newTab: false,
-    path: "/features",
+    path: "#features", // link to Features section
   },
-  {
-    id: 2.1,
+/*   {
+    id: 3,
     title: "Projects",
     newTab: false,
-    path: "/FAQ",
-  },
+    path: "#", // link to project section
+    disabled: true,
+  }, */
   {
     id: 4,
     title: "Support",
     newTab: false,
-    path: "/support",
+    path: "#support", // link to Contact section
   },
 ];
 
